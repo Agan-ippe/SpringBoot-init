@@ -179,3 +179,18 @@ String upperDataKey = "UserComment";
 ```
 
 生成代码后，可以移动到实际项目中，并且按照 `// todo` 注释的提示来针对自己的业务需求进行修改。
+
+
+
+## 题外话
+
+如需更改idea中显示的项目名，按住快捷键 `CTRL + ALT + SHIFT + S`
+
+也可以右键文件，选择项目结构
+
+![image-20260605115609375](https://cdn.jsdelivr.net/gh/Agan-ippe/typora_pic/imgs/image-20260605115609375.png)
+
+在此处修改即可，项目名最好与目录名一致
+
+![image-20260605115827226](https://cdn.jsdelivr.net/gh/Agan-ippe/typora_pic/imgs/image-20260605115827226.png)
+
