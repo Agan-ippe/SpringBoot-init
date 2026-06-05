@@ -18,6 +18,8 @@ target/
 *.iws
 *.iml
 *.ipr
+#TODO: 项目如需开源则取消下行注释
+#application-*.yml
 
 ### NetBeans ###
 /nbproject/private/

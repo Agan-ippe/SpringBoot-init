@@ -78,7 +78,7 @@
 
 ### MySQL 数据库
 
-1）修改 `application.yml` 的数据库配置为你自己的：
+1）修改 `application-dev.yml` 的数据库配置为你自己的：
 
 ```yml
 spring:
@@ -97,7 +97,7 @@ spring:
 
 ### Redis 分布式登录
 
-1）修改 `application.yml` 的 Redis 配置为你自己的：
+1）修改 `application-dev.yml` 的 Redis 配置为你自己的：
 
 ```yml
 spring:
@@ -134,7 +134,7 @@ spring:
 
 ### Elasticsearch 搜索引擎
 
-1）修改 `application.yml` 的 Elasticsearch 配置为你自己的：
+1）修改 `application-dev.yml` 的 Elasticsearch 配置为你自己的：
 
 ```yml
 spring:
