@@ -1,7 +1,7 @@
 # SpringBoot 项目初始模板
 
 > 作者：[知莫](https://github.com/Agan-ippe)
-> 源：鱼皮的 SpringBoot 万用后端模板
+> 源：[鱼皮](https://github.com/liyupi)的 SpringBoot 万用后端模板
 
 基于 Java SpringBoot 的项目初始模板，整合了常用框架和主流业务的示例代码。
 
